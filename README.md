@@ -72,7 +72,7 @@ src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/icons/tools/photos
 </p>  
    
 <p align="right">
-<h2> 🤔 More about Me: 😃 </h2>
+<h2> 😃 More about Me: </h2>
 
 -📚 I'm a 17 years old student ✏️
    
