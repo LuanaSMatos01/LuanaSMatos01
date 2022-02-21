@@ -104,15 +104,15 @@ src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/icons/tools/photos
 
 <p align="left">
    
-- 🔭 I’m currently working on some test projects
+-🔭 I’m currently working on some test projects
    
-- 🌱 I’m currently focusing in learn front-end
+-🌱 I’m currently focusing in learn front-end
    
-- 🤔 I want help with tips to learn better
+-🤔 I want help with tips to learn better
    
-- 💬 Ask me about code or hobbies 
+-💬 Ask me about code or hobbies 
    
-- 📫 How to reach me: (linkedin link)
+-📫 How to reach me: (linkedin link)
 
 </p>
    
