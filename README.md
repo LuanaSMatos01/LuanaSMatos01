@@ -97,7 +97,7 @@ src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/icons/tools/photosho
 <div align="center">
    
 <p align="right">
-    <img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/gifs/monke.gif" />
+    <img align="right" height="260px" width="440px" alt="GIF" src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/gifs/monke.gif" />
 </p>   
 
 <br />
