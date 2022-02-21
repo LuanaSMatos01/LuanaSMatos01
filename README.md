@@ -1,5 +1,5 @@
 <div align="center">
-   <h1> <img src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/gifs/birb.gif" width="33px"> Hi there, I'm <a href="https://www.youtube.com/watch?v=za3FN2fvXa8">Luana</a> <img src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/gifs/birb.gif" width="33px"> </h1>
+   <h1> <img src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/gifs/birb.gif" width="33px"> Hi there, I'm <a href="https://www.youtube.com/watch?v=za3FN2fvXa8">Luana</a> <img src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/gifs/birb.gif" width="33px"> </h1>
 </div>
 
 <div align="center">
@@ -26,37 +26,37 @@
 <p align="center">
       
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="left" 
-src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/icons/html5.svg" alt="HTML5" height='42px'/> </a>
+src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/icons/html5.svg" alt="HTML5" height='42px'/> </a>
    
 <a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img align="left" 
-src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/icons/css3.svg" alt="CSS3" height='42px'/> </a>
+src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/icons/css3.svg" alt="CSS3" height='42px'/> </a>
    
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" 
-src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/icons/javascript.svg"> </a>
+src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/icons/javascript.svg"> </a>
    
 <a href="https://www.php.net/" target="_blank"> <img align="left" alt="PHP" height ="42px" 
-src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/icons/php.svg"> </a>
+src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/icons/php.svg"> </a>
    
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img align="left" alt="csharp" height ="42px" 
-src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/icons/csharp.svg"> </a>
+src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/icons/csharp.svg"> </a>
    
 <a href="https://www.python.org/" target="_blank"> <img align="left" alt="python" height ="42px" 
-src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/icons/python.svg"> </a>
+src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/icons/python.svg"> </a>
    
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" height ="42px" 
-src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/icons/tools/git.svg"> </a>
+src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/icons/tools/git.svg"> </a>
    
 <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="mysql" height ="42px" 
-src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/icons/tools/mysql.svg"> </a>
+src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/icons/tools/mysql.svg"> </a>
    
 <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank"> <img align="left" alt="visualstudio" height ="42px" 
-src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/icons/tools/visualstudio.svg"> </a>
+src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/icons/tools/visualstudio.svg"> </a>
    
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="vscode" height ="42px" 
-src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/icons/tools/vscode.svg"> </a>
+src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/icons/tools/vscode.svg"> </a>
    
 <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"> <img align="left" alt="photoshop" height ="42px" 
-src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/icons/tools/photoshop.svg"> </a>
+src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/icons/tools/photoshop.svg"> </a>
 
 </p>
 </div>
@@ -68,7 +68,7 @@ src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/icons/tools/photosho
 <div align="center">
    
 <p align="left">
-    <img align="left" height="290px" width="340px" alt="GIF" src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/gifs/nerd.gif" />
+    <img align="left" height="290px" width="340px" alt="GIF" src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/gifs/nerd.gif" />
 </p>  
    
 <p align="right">
@@ -97,7 +97,7 @@ src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/icons/tools/photosho
 <div align="center">
    
 <p align="right">
-    <img align="right" height="260px" width="440px" alt="GIF" src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/gifs/monke.gif" />
+    <img align="right" height="260px" width="440px" alt="GIF" src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/gifs/monke.gif" />
 </p>   
 
 <br />
@@ -123,6 +123,6 @@ src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/icons/tools/photosho
 <br />
 
 <div>
-  <img align="left" height="170px" width="350px" alt="GIF" src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/gifs/agif.gif" />
-  <img align="right" height="170px" width="350px" alt="GIF" src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/gifs/bgif.gif" />
+  <img align="left" height="170px" width="350px" alt="GIF" src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/gifs/agif.gif" />
+  <img align="right" height="170px" width="350px" alt="GIF" src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/gifs/bgif.gif" />
 </div>
