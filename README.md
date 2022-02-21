@@ -68,7 +68,7 @@ src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/icons/tools/photosho
 <div align="center">
    
 <p align="left">
-    <img align="left" height="280px" width="340px" alt="GIF" src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/gifs/nerd.gif" />
+    <img align="left" height="290px" width="340px" alt="GIF" src="https://github.com/Luana-SMatos/Luana-SMatos/blob/main/gifs/nerd.gif" />
 </p>  
    
 <p align="right">
