@@ -110,7 +110,7 @@ src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/icons/tools/photos
    
 - 🤔 I want help with tips to learn better
    
-- 💬 Ask me about code or hobbies idk 
+- 💬 Ask me about code or hobbies 
    
 - 📫 How to reach me: (linkedin link)
 
