@@ -78,7 +78,7 @@ src="https://github.com/LuanaSMatos01/LuanaSMatos01/blob/main/icons/tools/photos
    
 -💡 Self-taught Full-Stack developer 💻
    
--🖌️ My hobby is draw and paint 🎨
+-🖌️ My hobby is drawing 🎨
 
 -🎵 I'm a very ecletic person with music 🎧
    
